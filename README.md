@@ -60,9 +60,3 @@ Met-Arg-Stop...
 TTACGCTA...
 
 ---
-
-📜 License  
-This project is open-source under the MIT License.
-
-👤 Author  
-Created with 💡 by Dipraj
